@@ -1,5 +1,7 @@
 # Portfolio_Website
 
+My portfolio website is made using HTML, CSS , Javascript along with some external libraries like "Scroll Reveal" & "Typed.js".
+
 #Output
 
 ![2](https://github.com/18LoneWarrior/Portfolio_Website/assets/107700143/b8ad2604-8c02-41bf-ac81-c18d22eaf35a)
